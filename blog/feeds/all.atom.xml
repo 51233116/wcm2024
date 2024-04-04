@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-20T13:59:14+08:00</updated><entry><title>WCM 五專第五週課程內容</title><link href="./wcm-5j-w5.html" rel="alternate"></link><published>2024-03-18T16:12:00+08:00</published><updated>2024-03-20T13:59:14+08:00</updated><author><name>51233116</name></author><id>tag:None,2024-03-18:./wcm-5j-w5.html</id><summary type="html">&lt;p&gt;第五周將利用與 ChatGPT 的對話,整理與精密機械科有關的問題詢答紀錄.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-04T11:53:46+08:00</updated><entry><title>WCM 五專第五週課程內容</title><link href="./wcm-5j-w5.html" rel="alternate"></link><published>2024-03-18T16:12:00+08:00</published><updated>2024-04-04T11:53:46+08:00</updated><author><name>51233116</name></author><id>tag:None,2024-03-18:./wcm-5j-w5.html</id><summary type="html">&lt;p&gt;第五周將利用與 ChatGPT 的對話,整理與精密機械科有關的問題詢答紀錄.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第五周將利用與 ChatGPT 的對話,整理與精密機械科有關的問題詢答紀錄.&lt;/p&gt;
 
 
@@ -62,4 +62,5 @@
 &lt;p&gt;教育娛樂化：AI 技術可以通過遊戲化、互動式學習等方式，將教育內容變得更加有趣和吸引人，提高學生的學習興趣和參與度。&lt;/p&gt;
 &lt;p&gt;教育智能化管理：AI 技術可以用於學校的管理和運營，例如自動化管理系統、智能監控系統等，提高學校管理的效率和質量。&lt;/p&gt;
 &lt;p&gt;總的來說，隨著AI 技術的不斷發展和應用，將對學校教育產生越來越多的影響，提供更多的機會和挑戰。教育機構和教育工作者需要積極探索和應用AI 技術，以更好地適應教育的變化，提高教育的質量和效率。&lt;/p&gt;
-&lt;p&gt;利用網路搜尋上述問題的可能回應資料,篩選認為有用的資料放入個人的課程網站中,並回報到課程倉儲的&lt;a href="https://github.com/mdecycu/wcm2024/discussions/1"&gt;討論區&lt;/a&gt;.&lt;/p&gt;</content><category term="misc"></category><category term="Chatgpt"></category><category term="w5"></category></entry></feed>
+&lt;p&gt;利用網路搜尋上述問題的可能回應資料,篩選認為有用的資料放入個人的課程網站中,並回報到課程倉儲的&lt;a href="https://github.com/mdecycu/wcm2024/discussions/1"&gt;討論區&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/WZlYAGT6RT8?si=AP224UoUEsKR3MD5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="misc"></category><category term="Chatgpt"></category><category term="w5"></category></entry></feed>
