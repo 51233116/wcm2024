@@ -7,7 +7,7 @@ Slug: wcm-5j-w13
 Author: 51233116
 ---
 
-
+<!-- PELICAN_END_SUMMARY -->
 # 13週內容
 
 猜數字遊戲

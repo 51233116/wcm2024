@@ -8,7 +8,7 @@ Author: 51233116
 ---
 
 
-
+<!-- PELICAN_END_SUMMARY -->
 # 12週內容
 
 Angry Bird 專案影片，操作說明
