@@ -1,7 +1,7 @@
 ---
 Title: WCM 五專第十三週課程內容
 Date: 2024-05-27 16:02
-Category: 
+Category: 五專
 Tags: Guess number, w13
 Slug: wcm-5j-w13
 Author: 51233116
