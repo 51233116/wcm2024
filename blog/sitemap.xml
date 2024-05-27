@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-05-27T07:57:25-00:00</lastmod>
+<lastmod>2024-05-27T08:01:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-05-27T07:57:25-00:00</lastmod>
+<lastmod>2024-05-27T08:01:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-05-27T07:57:25-00:00</lastmod>
+<lastmod>2024-05-27T08:01:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-05-27T07:57:25-00:00</lastmod>
+<lastmod>2024-05-27T08:01:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -39,22 +39,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./wcm-5j-w13.html</loc>
-<lastmod>2024-05-27T07:57:12+08:00</lastmod>
+<loc>./wcm-5-w10.html</loc>
+<lastmod>2024-05-27T08:00:27+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./wcm-5-w10.html</loc>
-<lastmod>2024-05-27T07:55:22+08:00</lastmod>
+<loc>./wcm-5j-w13.html</loc>
+<lastmod>2024-05-27T08:01:10+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./wcm-5j-w12.html</loc>
-<lastmod>2024-05-27T07:55:17+08:00</lastmod>
+<lastmod>2024-05-27T08:00:15+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -68,21 +68,56 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/misc.html</loc>
-<lastmod>2024-05-27T15:57:00+08:06</lastmod>
+<lastmod>2024-05-27T16:59:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/chatgpt.html</loc>
-<lastmod>2024-05-27T15:57:00+08:06</lastmod>
+<loc>./tag/wang-zhi.html</loc>
+<lastmod>2024-05-27T16:59:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/w10.html</loc>
+<lastmod>2024-05-27T16:59:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/guess-number.html</loc>
+<lastmod>2024-05-27T16:02:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/w13.html</loc>
-<lastmod>2024-05-27T15:57:00+08:06</lastmod>
+<lastmod>2024-05-27T16:02:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/angry-bird.html</loc>
+<lastmod>2024-05-27T16:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/w12.html</loc>
+<lastmod>2024-05-27T16:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/chatgpt.html</loc>
+<lastmod>2024-05-27T07:57:07+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -96,7 +131,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/51233116.html</loc>
-<lastmod>2024-05-27T15:57:00+08:06</lastmod>
+<lastmod>2024-05-27T16:59:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

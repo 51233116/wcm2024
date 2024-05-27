@@ -1,8 +1,8 @@
 ---
 Title: WCM 五專第十二週課程內容
-Date: 2024-03-18 16:12
+Date: 2024-05-27 16:00
 Category: 
-Tags: Chatgpt, w5
+Tags: Angry Bird, w12
 Slug: wcm-5j-w12
 Author: 51233116
 ---

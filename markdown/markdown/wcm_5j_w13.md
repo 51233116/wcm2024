@@ -1,8 +1,8 @@
 ---
 Title: WCM 五專第十三週課程內容
-Date: 2024-05-27 15:57
+Date: 2024-05-27 16:02
 Category: 
-Tags: Chatgpt, w13
+Tags: Guess number, w13
 Slug: wcm-5j-w13
 Author: 51233116
 ---
